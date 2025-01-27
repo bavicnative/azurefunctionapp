@@ -8,11 +8,11 @@ permissions:
   contents: read
 
 env:
-	AZURE_FUNCTIONAPP_NAME: demopppp443
-	PYTHON_VERSION: 3.11
-	IMAGE_NAME: azure-python-function-app
-	IMAGE_TAG: latest
-	AZURE_REGISTRY_LOGIN_SERVER: appecr.azurecr.io
+  AZURE_FUNCTIONAPP_NAME: demopppp443
+  PYTHON_VERSION: 3.11
+  IMAGE_NAME: azure-python-function-app
+  IMAGE_TAG: latest
+  AZURE_REGISTRY_LOGIN_SERVER: appecr.azurecr.io
 
 jobs:
   build-and-deploy:
