@@ -112,7 +112,7 @@ def HttpExample(req: func.HttpRequest) -> func.HttpResponse:
             </div>
             <div class="social-links">
                 <a href="https://linkedin.com/in/bavicnative" target="_blank">Connect on LinkedIn</a>
-                <a href="https://github.com/careerbytecode" target="_blank">Explore My GitHub</a>
+                <a href="https://github.com/bavicnative" target="_blank">Explore My GitHub</a>
                 <a href="https://careerbytecode.substack.com/" target="_blank">Read My Blogs</a>
             </div>
         </div>
